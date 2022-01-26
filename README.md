@@ -1,2 +1,2 @@
-# map---reduce---Nandini-
+# map-reduce-Nandini
 Practicing mapping and reducing
